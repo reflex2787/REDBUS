@@ -142,7 +142,7 @@ body{
 }
 section{
     width: 100%;
-    height: 5600px;
+    height: 5700px;
     position: relative;
 }
 .ginrry-rox{
@@ -150,7 +150,7 @@ section{
     height: 70px;
     background-color:white;
     position:sticky;
-    left: 1100px;
+    left: 1250px;
     top:500px;
     z-index: 1;
     border: 1px solid black;
@@ -163,7 +163,7 @@ section{
 h1{
    position: absolute;
     top: 40px;
-    left: 250px;
+    left: 400px;
     color: white;
 }
 .search-bar{
@@ -172,7 +172,7 @@ h1{
     background-color: white;
     position: absolute;
     top: 180px;
-    left: 150px;
+    left: 250px;
     border-radius: 40px;
     display: flex;
 }
@@ -277,14 +277,14 @@ h1{
     cursor: pointer;
 }
 .bus-tiket{
-    width: 1200px;
+    width: 1300px;
     height: 300px;
     margin: auto;
     box-shadow: 0 4px 12px gray;
     position: absolute;
     background-color: white;
     top: 450px;
-    left: 30px;
+    left: 110px;
     border-radius: 40px;
 }
 .bus-tiket-head{
@@ -331,7 +331,7 @@ h1{
 .tickets1{
     width: 300px;
     height: 160px;
-    margin:20px 10px;
+    margin:20px;
     display: flex;
     border-radius: 20px;
     background-image: linear-gradient(71.04deg, rgb(12, 57, 139) -6.92%, rgb(62, 118, 216) 109.43%);
@@ -386,7 +386,7 @@ p{
     width: 300px;
     height: 160px;
     display: flex;
-    margin:20px 10px;
+    margin:20px;
     border-radius: 20px;
     background-image:linear-gradient(71.04deg, rgb(39, 57, 101) -6.92%, rgb(80, 210, 149) 109.43%); 
 }
@@ -440,7 +440,7 @@ p{
     width: 300px;
     height: 160px;
     display: flex;
-    margin:20px 10px;
+    margin:20px;
     border-radius: 20px;
     background-image: linear-gradient(71.04deg, rgb(72, 0, 4) -6.92%, rgb(216, 78, 85) 109.43%);
 }
@@ -607,6 +607,7 @@ p{
     background-color:lightcoral;
     position: relative;
     box-shadow: 0 4px 12px gray;
+    margin: 10px 0px;
 }
 .containar-gove2-box-box{
     width: 380px;
@@ -769,10 +770,11 @@ p{
     right:35px;
 }
 .train-bar-box{
-    width: 1200px;
+    width: 1350px;
     height: 600px;
     margin-top:50px;
     position: relative;
+    margin-left: -80px;
 }
 .train-bar-text{
     width:650px;
@@ -857,10 +859,11 @@ p{
     height: 100%;
     float:right;
     background-image: url(../redbus/aboutUsImg.svg);
+    border-radius: 0px 50px 50px 0px;
 }
 .scanar{
-    width: 1000px;
-    height: 400px;
+    width: 1200px;
+    height: 500px;
     background: url(../redbus/appInstallbg.svg) no-repeat center center; 
     margin: 100px auto;
     border-radius: 50px;
@@ -871,7 +874,7 @@ p{
     height: 280px;
     background-color: white;
     position: absolute;
-    top: 80px;
+    top: 120px;
     left: 40px;
     border-radius: 20px;
 }
@@ -918,8 +921,8 @@ p{
     width: 120px;
     height:200px;
     position: absolute;
-    top: 100px;
-    left:500px;
+    top: 120px;
+    left:520px;
 }
 .scanar-bar img:hover{
     cursor: pointer;
@@ -929,21 +932,21 @@ p{
     height:280px;
     position: absolute;
     left: 680px;
-    top: 120px;
+    top: 145px;
 }
 .logars img:hover{
     cursor: pointer;
 }
 .scanar2{
-    width: 1000px;
-    height: 450px;
+    width: 1200px;
+    height: 500px;
     margin: 50px auto;
     border-radius: 50px;
     position: relative;
     display: flex;
 }
 .blue-bar{
-    width: 400px;
+    width: 520px;
     height: 100%;
     background-color:rgb(35, 48, 88);
     border-radius:50px;
@@ -971,7 +974,7 @@ p{
     float: right;
 }
 .contury{
-    width: 1100px;
+    width: 1200px;
     height: 400px;
     margin: 50px auto;
     position: relative;
@@ -981,7 +984,7 @@ p{
     height: 200px;
     position: absolute;
     top: 120px;
-    left: 50px;
+    left: 120px;
     display: flex;
 }
 .contury-box{
@@ -1072,7 +1075,7 @@ p{
     cursor: pointer;
 }
 .plus-bar-containt{
-    width: 1050px;
+    width: 1100px;
     height: 80px;
     border: 1px solid #f7f7f2;
     margin:20px;
@@ -1099,7 +1102,7 @@ p{
     margin-top: 200px;
 }
 .text-footer-box{
-    width: 1150px;
+    width: 1200px;
     height: 80px;
     border-bottom:1px solid gray ;
     margin: 20px auto;
@@ -1112,23 +1115,23 @@ p{
     cursor: pointer;
 }
 .footer-main-bar{
-    width: 1180px;
+    width: 1200px;
     height: 450px;
     position: absolute;
     top: 6650px;
-    left: 52px;
+    left: 180px;
     display: flex;
 }
 .footer-main-bar-box1{
-    width: 320px;
+    width: 400px;
     height: 430px;
-    margin: 5px 0 0 0;
+    margin: 5px 10px 0 10px;
     line-height: 20px;
 }
 .footer-main-bar-box{
     width: 250px;
     height: 430px;
-    margin-top: 5px;
+    margin: 5px 10px 0 10px;
 }
 .footer-main-bar-box p{
     cursor: pointer;
@@ -1185,15 +1188,15 @@ ul li:hover{
     margin-top: 40px;
 }
 .helpfull1{
-    width: 350px;
+    width: 400px;
     height: 620px;
     background-color:#f3f3f3;
     margin:40px 70px 0px 70px; 
     border-radius: 10px;
 }
 .help-box-sms{
-    width: 330px;
-    height: 160px;
+    width: 380px;
+    height: 180px;
     background-color: white;
     margin:30px auto;
 }
@@ -1290,8 +1293,8 @@ ul li:hover{
     justify-content: end;
 }
 .shawdo{
-    width:900px;
-    height: 250px;
+    width:1100px;
+    height: 280px;
     border-radius: 72px;
     border: 1px solid gray;
     background-color:rgba(92,92,92,.48);
@@ -1301,11 +1304,10 @@ ul li:hover{
     backdrop-filter: blur(25px);
     position: absolute;
     top: 260px;
-    left: 200px
+    left: 220px
 }
 .clickerbar{
     width: 650px;
-    height: 4;
     margin:30px auto;
     display: flex;
     justify-content: space-between;
@@ -1346,7 +1348,7 @@ input{
     border: 2px solid black;
 }
 .searchbar-train{
-    width:820px;
+    width:900px;
     height: 110px;
     background-color: #60b681;
     border-radius: 30px;
@@ -1357,7 +1359,7 @@ input{
     cursor: pointer;
 }
 .search-bar-boxers{
-    width: 170px;
+    width: 180px;
     height: 100%;
     background-color:white;
     border-radius: 30px 0 0 30px;
@@ -1368,7 +1370,7 @@ input{
     gap: 10px;
 }
 .search-bar-boxers1{
-    width: 170px;
+    width: 180px;
     height: 100%;
     background-color:white;
     border-right:1px solid #e0e0e0 ;
@@ -1378,7 +1380,7 @@ input{
     gap: 10px;
 }
 .search-bar-boxers2{
-    width: 130px;
+    width: 140px;
     height: 100%;
     background-color:white;
     border-right:1px solid #e0e0e0 ;
@@ -1389,7 +1391,7 @@ input{
     gap: 10px;
 }
 .search-bar-boxers3{
-    width: 220px;
+    width: 230px;
     height: 100%;
     background-color:white;
     position: relative;
@@ -1404,21 +1406,22 @@ input{
     right: 20px;
 }
 .search-bar-boxers4{
-    width: 130px;
+    width: 180px;
     height: 100%;
     background-color:#d84e55;
     border-radius: 0 30px 30px 0;
     display: flex;
     align-items: center;
-    padding-left: 25px;
+    padding-left: 15px;
 }
 .search-bar-boxers4:hover{
     cursor: pointer;
     box-shadow: 0px 4px 12px 0pc gray;
 }
 .trains-tickets{
+    padding-top: 40px;
     width:100%;
-    height: 340px;
+    height: 380px;
 }
 .train-ticket-box{
     width: 1150px;
@@ -1458,7 +1461,7 @@ input{
     display: flex;
 }
 .herry-bar{
-    width: 300px;
+    width: 25%;
     height: 100%;
     display: flex;
 }
@@ -1489,8 +1492,9 @@ input{
     height: 100%;
 }
 .main-mobile-bar-box2{
-    width: 550px;
+    width: 800px;
     height: 100%;
+    margin-right: -100px;
 }
 .step1{
     width: 500px;
